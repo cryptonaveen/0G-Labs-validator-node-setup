@@ -1,0 +1,1 @@
+# 0G-Labs-validator-node-setup
